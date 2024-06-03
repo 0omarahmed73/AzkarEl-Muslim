@@ -15,9 +15,9 @@ Welcome to the "Muslim Azkar" app, a comprehensive collection of daily Azkar (re
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Azkar List](screenshots/azkar_list.png)
-![Tasbeeh Counter](screenshots/tasbeeh.png)
+![Home Page](home.png)
+![Azkar List](azkar_list.png)
+![Tasbeeh Counter](tasbeeh.png)
 
 ## Installation
 
